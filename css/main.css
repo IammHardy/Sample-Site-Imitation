@@ -194,14 +194,14 @@ nav{
   color: white;
   max-width: 100%;
 }
-nav>ul{
+nav>.footerr{
   display: flex;
   width: 100%;
   text-align: center;
   align-items: center;
   gap: 10px;
 }
-nav a{
+.footerr a{
   color: white;
   text-decoration: none;
 }
