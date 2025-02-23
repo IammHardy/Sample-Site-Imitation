@@ -107,7 +107,7 @@ div,li {
 }
 .section_inner.background{
   background: url(/images/sample_menu_bg.jpg);
-  background-repeat: no repeat;
+  background-repeat: no-repeat;
   background-position: fixed;
 }
 
