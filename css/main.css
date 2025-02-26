@@ -106,7 +106,7 @@ div,li {
   max-width: 35%;
 }
 .section_inner.background{
-  background: url(/images/sample_menu_bg.jpg);
+  background-image: url(/images/sample_menu_bg.jpg);
   background-repeat: no-repeat;
   background-position: fixed;
 }
